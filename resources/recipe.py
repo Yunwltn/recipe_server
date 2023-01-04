@@ -13,7 +13,7 @@ class RecipeListResource(Resource) :
         # print(data) 디버깅용
 
         # 2. 이 레시피 정보를 DB에 저장해야한다
-        
+
 
         # API를 끝낼때는 클라이언트에 보내줄 정보(json)와 http 상태코드를 리턴한다(보내준다)
         return {"result" : "success"}, 200
