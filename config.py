@@ -4,3 +4,5 @@ class Config :
     DATABASE = 'recipe_db'
     DB_USER = 'recipe_user'
     DB_PASSWORD = 'yh1234db'
+
+    SALT = 'dskj29jcdn12jn'
